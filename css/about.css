@@ -24,7 +24,7 @@ body{
 }
 .row {
     /* Reduce top margin or padding to decrease the top space */
-    margin-bottom: -500px; /* Adjust this value to your preference */
+    margin-bottom: -250px; /* Adjust this value to your preference */
     margin-left: 20px;
   }
   .text-center {
